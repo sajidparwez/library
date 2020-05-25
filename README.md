@@ -13,3 +13,7 @@ The project has the followinf features:
 .adding new publisher
 .book issue 
 .book return
+
+The project yield a computer application developed in java .
+Developed using netbean ide
+For database management Mysql DBMS is used.
